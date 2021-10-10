@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anish8129
+- 👋 Hi, I’m Anish
 - :man_technologist: I work as an SDE at [Xperi](https://www.xperi.com/)
 - 👀 I’m interested in building softwares using microservices.
 - 🌱 I’m currently learning Multi Threading and LLD(Low Level Design).
