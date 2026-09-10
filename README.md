@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anish
-- :man_technologist: I work as an SDE-2 at [Games24x7](https://www.games24x7.com/)
+- :man_technologist: I work as an SSE-2 at [Talkdesk](https://www.talkdesk.com)
 - 👀 I’m interested in building softwares using microservices.
-- 🌱 I’m currently learning Multi Threading and LLD(Low Level Design).
+- 🌱 I’m currently learning AI and all about it as much as I can.
 
 - 📫 You can reach me on [LinkedIn](www.linkedin.com/in/anish-prasad)
 
